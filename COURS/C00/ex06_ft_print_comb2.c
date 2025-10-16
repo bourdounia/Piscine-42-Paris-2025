@@ -29,9 +29,9 @@ void	ft_print_comb2(void)
     }
 }
 /* pour verifier ton code 
-int main()
+int main(void)
 {
     ft_print_comb2();
     return (0);
 }
-/*           
+*/           
