@@ -4,8 +4,7 @@ Fichiers attendus : ft_strcpy.c
 Fonctions autorisées :
 --------------------------------------------------------------------------------
 
-Воспроизведите поведение функции strcpy (man strcpy).
-
+Reproduisez le comportement de la fonction strcpy (man strcpy).
 
 Cette fonction est juste pour vous aider à résoudre le problème :
 
