@@ -1,3 +1,17 @@
+ /*
+ Nom de l'affectation : ulstr
+Fichiers attendus : ulstr.c
+Fonctions autorisées : write
+--------------------------------------------------------------------------------
+
+Écrivez un programme qui prend une chaîne et inverse la casse de chaque lettre.
+Les autres caractères restent inchangés.
+
+Le résultat doit être affiché suivi d'un saut de ligne.
+
+Si le nombre d'arguments est différent de 1, le programme affiche « \n ».
+ */
+ 
  #include <unistd.h>
  
   int     main(int argc, char *argv[])
