@@ -1,7 +1,7 @@
  /*
  Nom de l'affectation : search_and_replace
 Fichiers attendus : search_and_replace.c
-Fonctions autorisées : écrire, quitter
+Fonctions autorisées : write, exit
 --------------------------------------------------------------------------------
 
 Choisissez le programme avec search_and_replace, avec 3 arguments.
